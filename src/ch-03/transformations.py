@@ -1,3 +1,8 @@
+""" Example of actions in Chapter 3, page 34
+
+rdd referes to a RDD.  In this example we do not have an RDD
+"""
+
 from pyspark import SparkConf, SparkContext
 
 # for standalone apps, you need to create a sparkcontext (sc) first
